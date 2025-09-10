@@ -1,5 +1,5 @@
 # InterviewPrep
-Solution for Top 50 Interview Interview Question
+Solution for Top 50 Interview Question
 
 Top 50 Coding Interview Questions
 # 1. Core Java & OOP (7)
